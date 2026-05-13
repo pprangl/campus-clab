@@ -1,0 +1,152 @@
+{
+  "freeTextAnnotations": [],
+  "freeShapeAnnotations": [],
+  "trafficRateAnnotations": [],
+  "groupStyleAnnotations": [],
+  "networkNodeAnnotations": [],
+  "nodeAnnotations": [
+    {
+      "id": "site1-ab1-client1",
+      "position": {
+        "x": 460,
+        "y": -260
+      }
+    },
+    {
+      "id": "site1-ab1-client2",
+      "position": {
+        "x": 320,
+        "y": -260
+      }
+    },
+    {
+      "id": "site1-ab2-client1",
+      "position": {
+        "x": 20,
+        "y": -260
+      }
+    },
+    {
+      "id": "site1-ab2-client2",
+      "position": {
+        "x": 160,
+        "y": -260
+      }
+    },
+    {
+      "id": "site1-fw1",
+      "position": {
+        "x": 320,
+        "y": 580
+      }
+    },
+    {
+      "id": "site1-fw2",
+      "position": {
+        "x": 460,
+        "y": 580
+      }
+    },
+    {
+      "id": "site1-spine1",
+      "position": {
+        "x": 320,
+        "y": 260
+      }
+    },
+    {
+      "id": "site1-spine2",
+      "position": {
+        "x": 460,
+        "y": 260
+      }
+    },
+    {
+      "id": "site1-ab1-leaf1a",
+      "position": {
+        "x": 460,
+        "y": 120
+      }
+    },
+    {
+      "id": "site1-ab1-leaf1b",
+      "position": {
+        "x": 320,
+        "y": 120
+      }
+    },
+    {
+      "id": "site1-ab2-leaf1a",
+      "position": {
+        "x": 160,
+        "y": 120
+      }
+    },
+    {
+      "id": "site1-ab2-leaf1b",
+      "position": {
+        "x": 20,
+        "y": 120
+      }
+    },
+    {
+      "id": "site1-ab2-subleaf1a",
+      "position": {
+        "x": 160,
+        "y": 0
+      }
+    },
+    {
+      "id": "site1-ab2-subleaf1b",
+      "position": {
+        "x": 20,
+        "y": 0
+      }
+    },
+    {
+      "id": "site1-ab2-access1",
+      "position": {
+        "x": 20,
+        "y": -140
+      }
+    },
+    {
+      "id": "site1-ab2-access2",
+      "position": {
+        "x": 160,
+        "y": -140
+      }
+    },
+    {
+      "id": "site1-border01",
+      "position": {
+        "x": 320,
+        "y": 440
+      }
+    },
+    {
+      "id": "site1-border02",
+      "position": {
+        "x": 460,
+        "y": 440
+      }
+    },
+    {
+      "id": "site1-ab1-subleaf1b",
+      "position": {
+        "x": 320,
+        "y": 0
+      }
+    },
+    {
+      "id": "site1-ab1-subleaf1a",
+      "position": {
+        "x": 460,
+        "y": 0
+      }
+    }
+  ],
+  "edgeAnnotations": [],
+  "aliasEndpointAnnotations": [],
+  "viewerSettings": {}
+}
