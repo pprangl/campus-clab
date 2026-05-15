@@ -216,3 +216,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+CL_containerlab_onboarding_token
+clab-campus-clab
